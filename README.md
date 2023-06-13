@@ -1,0 +1,1 @@
+As a final HarvardX project I created a program that simulates a chess game between two players. The virtual chessboard is displayed on the screen and players can make their moves by clicking on the checkers and dragging them to the desired square. The program checks the validity of the moves and displays any errors.
